@@ -51,7 +51,7 @@ async function fetchData() {
 
     const proxyUrl = "https://corsproxy.io/?"
 
-    const apiUrl = "https://www.alza.cz/api/carousels/v1/commodities/" + id + "/recommendedAccesorySlots?country=CZ&pgrik=mAID&ucik=AiAEJQ";
+    const apiUrl = "https://www.alza.cz/api/carousels/v1/commodities/" + id + "/recommendedAccessorySlots?country=CZ&pgrik=p_26752&ucik=u_lg1_e39d5";
 
     const finalUrl = proxyUrl + apiUrl
 
